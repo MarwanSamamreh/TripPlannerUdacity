@@ -34,7 +34,7 @@ git clone https://github.com/your-username/trip-planner.git
 cd trip-planner
 ```
 
-### 2. Install dependencies and Node Version: v20.10.0 :
+### 2. Install dependencies and Node Version: v20.10.0:
 
 ```bash
 nvm install v20.10.0
